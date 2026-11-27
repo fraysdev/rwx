@@ -1,0 +1,5 @@
+[project]
+name = "rwx-py"
+
+[tool.pyside6-project]
+files = ["backend/file.py", "main.py", "main.qml", "modules/text/Editor.qml"]
